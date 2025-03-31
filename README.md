@@ -1,3 +1,3 @@
 # fr4_project
 
- [ncviewer]([myLib/README.md](https://ncviewer.com/))
+ [ncviewer](https://ncviewer.com/)
